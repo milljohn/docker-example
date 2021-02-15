@@ -1,0 +1,4 @@
+I:35418037
+E:ID_MM_CANDIDATE=1
+E:SYSTEMD_ALIAS=/sys/subsystem/net/devices/docker0
+G:systemd

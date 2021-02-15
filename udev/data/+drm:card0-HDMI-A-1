@@ -1,0 +1,9 @@
+I:7146517
+E:ID_PATH=pci-0000:00:02.0
+E:ID_PATH_TAG=pci-0000_00_02_0
+E:ID_FOR_SEAT=drm-pci-0000_00_02_0
+G:snap_gnome-calculator_gnome-calculator
+G:master-of-seat
+G:seat
+G:snap_gnome-characters_gnome-characters
+G:snap_teams-for-linux_teams-for-linux

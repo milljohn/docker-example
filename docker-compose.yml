@@ -1,0 +1,23 @@
+
+
+version: '3.1'
+
+services:
+  cubemostest:
+    container_name: cubemos-test
+    image: cubemos-test
+    build: .
+    devices:
+      - '/dev/video0:/dev/video0'
+      - '/dev/video1:/dev/video1'
+      - '/dev/video2:/dev/video2'
+      - '/dev/video3:/dev/video3'
+      - '/dev/video4:/dev/video4'
+      - '/dev/video5:/dev/video5'
+    mac_address: e4:b9:7a:e8:b1:86
+    tty: true
+    stdin_open: true
+    working_dir: /src
+    volumes:
+      - ./src:/src
+    command: /bin/bash

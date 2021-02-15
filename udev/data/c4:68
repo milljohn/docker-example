@@ -1,0 +1,10 @@
+I:7144835
+E:ID_BUS=pci
+E:ID_VENDOR_ID=0x8086
+E:ID_MODEL_ID=0xa2a7
+E:ID_PCI_CLASS_FROM_DATABASE=Signal processing controller
+E:ID_PCI_SUBCLASS_FROM_DATABASE=Signal processing controller
+E:ID_VENDOR_FROM_DATABASE=Intel Corporation
+E:ID_MODEL_FROM_DATABASE=200 Series PCH Serial IO UART Controller
+E:ID_MM_CANDIDATE=1
+G:systemd

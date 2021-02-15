@@ -1,0 +1,7 @@
+I:1054486702149
+E:ID_MM_CANDIDATE=1
+E:ID_NET_DRIVER=veth
+E:ID_NET_LINK_FILE=/lib/systemd/network/99-default.link
+E:NM_UNMANAGED=1
+E:SYSTEMD_ALIAS=/sys/subsystem/net/devices/veth5c8e125
+G:systemd
